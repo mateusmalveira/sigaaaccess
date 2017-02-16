@@ -2,7 +2,7 @@
 
 [Desktop Entry]
 Name=Sigaa Entrada
-Comment=Abrir a porra do sigaa sem precisar da droga do firefox
+Comment=Abra o Sigaa em qualquer navegador.
 Exec=sh -c "xdg-open /home/$USER/.sigaa/index.html" 
 Icon=system-config-users.png
 Terminal=false
